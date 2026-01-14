@@ -25,6 +25,19 @@
 </p>
 
 <hr>
+## 📊 Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=leopasq24&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="LeoPasq24's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=leopasq24&theme=transparent&count_private=true&border_radius=10&locale=en" alt="LeoPasq24's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=leopasq24&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="LeoPasq24's Most Used Languages" />
+</div>
+
+<hr>
+
+
 
 <!--
 **leopasq24/leopasq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
