@@ -1,6 +1,31 @@
 ## Hi there 👋
-- 🔭 I’m currently studying at University of Pisa
+- 🔭 I’m currently studying Data Science at University of Pisa
 - ⚡I'm interested in Computer Science, linguistics and networks
+
+<br>
+
+<div align="center">
+  <a href="leonardo.pasquale03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/leonardo-pasquale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,python,R,mongodb,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+</p>
+
+<hr>
+
 <!--
 **leopasq24/leopasq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
