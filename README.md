@@ -20,8 +20,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,python,R,mongodb,typescript" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,php,python,r,mongodb,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,git,figma" />
 </p>
 
 <hr>
